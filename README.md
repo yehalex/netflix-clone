@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo Video
 
-  Video [https://www.youtube.com/watch?v=2GFeY4fEe5A]
+  [Video](https://www.youtube.com/watch?v=2GFeY4fEe5A)
 
 ## Getting Started
 
